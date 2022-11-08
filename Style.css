@@ -1,0 +1,68 @@
+*{
+    padding:0;
+    margin:0
+}
+
+.main{
+    height: 40vh;
+    display: flex;
+    justify-content: space-around;
+}
+.droupadi_pic{
+    width:55%;
+    height:100%; 
+    border-radius: 30%;
+    margin: 5% 0 0 10%;
+}
+.section2{
+    background-color:rgb(237, 236, 236);
+    height: 122vh;
+}
+.section2_header{
+    font-size: 37px;
+    text-align: center;
+    font-weight: bold;
+    padding: 2%;
+    color:rgb(240, 26, 130);
+    text-shadow: 3px 2px 2px rgb(246, 216, 98);
+}
+.paragrapgh{
+    margin:1% 5%  ;
+    font-size: 20px;
+    font-weight: 500;
+}
+.section2 h2{
+    margin-left: 5%;
+    text-shadow: 2px 2px 2px rgb(186, 172, 172);
+}
+
+.header1{
+    height:50vh;
+    background-color:rgb(131, 184, 171);
+}
+.main_div{
+    border: 6px double rgb(53, 126, 62);
+}
+.name{
+    font-size: 40px;
+    color:rgb(240, 52, 52);
+    margin: 25% 0 5% 8%;
+}
+.dob{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.merquee{
+    color:rgb(41, 41, 181) ;
+     height:100px
+}
+footer{
+    margin:12px 0;
+}
+footer p{
+    margin-left: 60%;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: oblique;
+}
